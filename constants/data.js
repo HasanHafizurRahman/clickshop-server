@@ -26,7 +26,7 @@ export const products = [
       "https://rukminim1.flixcart.com/image/416/416/kl6wx3k0/sandwich-maker/8/r/d/sandwich-01-flipkart-smartbuy-original-imagydds4zthxt8z.jpeg?q=70",
     title: {
       shortTitle: "Sandwich Makers",
-      longTitle: "Flipkart SmartBuy Sandwich 01 Grill  (Black)",
+      longTitle: "Daraz SmartBuy Sandwich 01 Grill  (Black)",
     },
     price: {
       mrp: 1499,
@@ -96,7 +96,7 @@ export const products = [
     },
     quantity: 1,
     description: "",
-    discount: "From ₹499",
+    discount: "From $499",
     tagline: "Kubra, Nova & more",
   },
   {
