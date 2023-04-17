@@ -3,9 +3,9 @@ import { products } from "./constants/product.js";
 import Product from "./model/productSchema.js";
 
 const DefaultData = async () => {
-  console.log(products);
+  // console.log(products);
   try {
-    await Product.deleteMany({});
+    // await Product.deleteMany({});
     await Product.insertMany(products);
     console.log("Data inserted successfully");
   } catch (error) {
